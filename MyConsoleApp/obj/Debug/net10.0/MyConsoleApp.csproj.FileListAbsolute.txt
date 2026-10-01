@@ -1,0 +1,15 @@
+/workspaces/my-first-blog/MyConsoleApp/bin/Debug/net10.0/MyConsoleApp
+/workspaces/my-first-blog/MyConsoleApp/bin/Debug/net10.0/MyConsoleApp.deps.json
+/workspaces/my-first-blog/MyConsoleApp/bin/Debug/net10.0/MyConsoleApp.runtimeconfig.json
+/workspaces/my-first-blog/MyConsoleApp/bin/Debug/net10.0/MyConsoleApp.dll
+/workspaces/my-first-blog/MyConsoleApp/bin/Debug/net10.0/MyConsoleApp.pdb
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.AssemblyInfoInputs.cache
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.AssemblyInfo.cs
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.sourcelink.json
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.dll
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/refint/MyConsoleApp.dll
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.pdb
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/MyConsoleApp.genruntimeconfig.cache
+/workspaces/my-first-blog/MyConsoleApp/obj/Debug/net10.0/ref/MyConsoleApp.dll
